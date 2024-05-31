@@ -13,7 +13,7 @@
     "sourceMap": true,
     "paths": {
       "ngx-scarlazzetta": [
-        "dist/ngx-scarlazzetta"
+        "projects/ngx-scarlazzetta/src/public-api"
       ]
     },
     "declaration": false,
